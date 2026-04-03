@@ -22,6 +22,6 @@ Kotlin ve Jetpacak Composse ile Mobil Uygulama Geliştirme üzerine odaklanan bi
 <h3 align="left">Kullandığım Dil ve Araçlar:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,mysql,html,css,js,wordpress,git" />
+    <img src="https://kotlin,androidstudio,firebase,mysql,html,css,js,wordpress,git" />
   </a>
 </p>
